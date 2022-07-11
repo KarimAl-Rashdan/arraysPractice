@@ -10,3 +10,6 @@ console.log(ages.slice(1,4))
 /* The code below will remove the first array element */
 enrolledTuring.shift()
 console.log(enrolledTuring)
+
+/* The index position of an array allows the human to access a specific element from an array. The below code will demonstrate how to make the output say "Pax" specifically */
+console.log(friends[2])
